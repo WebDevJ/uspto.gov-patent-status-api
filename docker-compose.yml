@@ -1,0 +1,9 @@
+services:
+  patent-status-api:
+    container_name: james-roberts-patent-api
+    image: patent-status-api:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
