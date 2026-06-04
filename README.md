@@ -1,6 +1,7 @@
-## Back-end URL: <https://uspto-gov-patent-status-api.onrender.com/api/applications>
+## Back-End URL:     <https://uspto-gov-patent-status-api.onrender.com/api/applications>
 
-Front-end repo: <https://github.com/WebDevJ/uspto.gov-application-review-ui.git>
+Front-End repo:      <https://github.com/WebDevJ/uspto.gov-application-review-ui.git>
+Deployed Front-end:  <https://uspto-gov-application-review-ui.onrender.com>
 
 # Patent Application Status API
 
